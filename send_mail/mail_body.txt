@@ -1,0 +1,2 @@
+<b>hello world2</b>
+<img src="http://127.0.0.1/test.jpg?email=tempmail" style="display: none;">
