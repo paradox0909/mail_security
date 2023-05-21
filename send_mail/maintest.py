@@ -1,5 +1,5 @@
 #Have to on the sendmail
-#Stmp mail sender 
+#Smtp mail sender 
 #Have to on servce sendmail start
 import os
 import smtplib
