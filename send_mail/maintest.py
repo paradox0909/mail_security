@@ -1,5 +1,6 @@
-#have to on the sendmail
-#stmp mail sender 
+#Have to on the sendmail
+#Stmp mail sender 
+#Have to on servce sendmail start
 import os
 import smtplib
 from email.mime.text import MIMEText
