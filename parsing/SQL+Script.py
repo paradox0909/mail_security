@@ -1,4 +1,5 @@
 import re
+import os
 import mysql.connector
 
 # 정규표현식 패턴
