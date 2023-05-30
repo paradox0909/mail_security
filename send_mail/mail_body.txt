@@ -1,2 +1,22 @@
-<b>hello world2</b>
-<img src="http://127.0.0.1/test.jpg?email=tempmail" style="display: none;">
+<div style="margin:0;padding:0" bgcolor="#FFFFFF">
+  <table width="100%" height="100%" style="min-width:348px" border="0" cellspacing="0" cellpadding="0" lang="en">
+    <tbody>
+      <tr height="32" style="height:32px">
+        <td></td>
+      </tr>
+      <tr align="center">
+        <td>
+          <div>
+            <div></div>
+          </div>
+          <table border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;max-width:516px;min-width:220px">
+            <tbody>
+              <tr>
+                <td width="8" style="width:8px"></td>
+                <td>
+                  <div style="border-style:solid;border-width:thin;border-color:#dadce0;border-radius:8px;padding:40px 20px" align="center" class="m_7177375675334287453mdv2rw">
+                    <img src="https://ci5.googleusercontent.com/proxy/T_zJ7UbaC9x27OP4-ZCPfDipqYLSGum30AlaxEycVclfvxO8Cze0sZ0kCrXlx6a-MgvW2tswbIyiNVfczjDuGh9okorzC5SUJDfwkHr6-3j1KUu94HuAw5uxM_jaElQef3Sub84=s0-d-e1-ft#https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" width="74" height="24" aria-hidden="true" style="margin-bottom:16px" alt="Google" class="CToWUd" data-bit="iit">
+                    <div style="font-family:'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom:thin solid #dadce0;color:rgba(0,0,0,0.87);line-height:32px;padding-bottom:24px;text-align:center;word-break:break-word">
+                      <div style="font-size:24px">
+                        <font style="vertical-align: inherit;">
+                          <fon
