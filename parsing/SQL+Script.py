@@ -33,3 +33,11 @@ if connect.is_connected():
 
     for email in emails:
         cursor.execute("UPDATE result SET clicked = 1 WHERE email = %s", (email,))
+        if email in button_clicked_emails:
+            cursor.execute("UPDATE result SET button_clicked = 1 WHERE email = %s", (email,))
+
+    connect.commit()
+    connect.close()
+
+    if not connect.is_connected():
+        print("ByeBye")
