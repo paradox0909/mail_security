@@ -1,22 +1,100 @@
 <div style="margin:0;padding:0" bgcolor="#FFFFFF">
-  <table width="100%" height="100%" style="min-width:348px" border="0" cellspacing="0" cellpadding="0" lang="en">
-    <tbody>
-      <tr height="32" style="height:32px">
-        <td></td>
-      </tr>
-      <tr align="center">
-        <td>
-          <div>
-            <div></div>
-          </div>
-          <table border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;max-width:516px;min-width:220px">
-            <tbody>
-              <tr>
-                <td width="8" style="width:8px"></td>
+    <table width="100%" height="100%" style="min-width:348px" border="0" cellspacing="0" cellpadding="0" lang="en">
+        <tbody>
+            <tr height="32" style="height:32px">
+                <td></td>
+            </tr>
+            <tr align="center">
                 <td>
-                  <div style="border-style:solid;border-width:thin;border-color:#dadce0;border-radius:8px;padding:40px 20px" align="center" class="m_7177375675334287453mdv2rw">
-                    <img src="https://ci5.googleusercontent.com/proxy/T_zJ7UbaC9x27OP4-ZCPfDipqYLSGum30AlaxEycVclfvxO8Cze0sZ0kCrXlx6a-MgvW2tswbIyiNVfczjDuGh9okorzC5SUJDfwkHr6-3j1KUu94HuAw5uxM_jaElQef3Sub84=s0-d-e1-ft#https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" width="74" height="24" aria-hidden="true" style="margin-bottom:16px" alt="Google" class="CToWUd" data-bit="iit">
-                    <div style="font-family:'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom:thin solid #dadce0;color:rgba(0,0,0,0.87);line-height:32px;padding-bottom:24px;text-align:center;word-break:break-word">
-                      <div style="font-size:24px">
-                        <font style="vertical-align: inherit;">
-                          <fon
+                    <div>
+                        <div></div>
+                    </div>
+                    <table border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;max-width:516px;min-width:220px">
+                        <tbody>
+                            <tr>
+                                <td width="8" style="width:8px"></td>
+                                <td>
+                                    <div style="border-style:solid;border-width:thin;border-color:#dadce0;border-radius:8px;padding:40px 20px" align="center" class="m_7177375675334287453mdv2rw">
+                                        <img src="https://ci5.googleusercontent.com/proxy/T_zJ7UbaC9x27OP4-ZCPfDipqYLSGum30AlaxEycVclfvxO8Cze0sZ0kCrXlx6a-MgvW2tswbIyiNVfczjDuGh9okorzC5SUJDfwkHr6-3j1KUu94HuAw5uxM_jaElQef3Sub84=s0-d-e1-ft#https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" width="74" height="24" aria-hidden="true" style="margin-bottom:16px" alt="Google" class="CToWUd" data-bit="iit">
+                                        <div style="font-family:'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom:thin solid #dadce0;color:rgba(0,0,0,0.87);line-height:32px;padding-bottom:24px;text-align:center;word-break:break-word">
+                                            <div style="font-size:24px">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">Newly logged in from Windows</font>
+                                                </font>
+                                            </div>
+                                            <table align="center" style="margin-top:8px">
+                                                <tbody>
+                                                    <tr style="line-height:normal">
+                                                        <td align="right" style="padding-right:8px">
+                                                            <img width="20" height="20" style="width:20px;height:20px;vertical-align:sub;border-radius:50%" src="https://lh3.googleusercontent.com/a/AAcHTtfZW_aSLAxJ2aIMnNFxW9JsknZO-_7r1grP_Bv_mA=s96" alt="" class="CToWUd" data-bit="iit">
+                                                        </td>
+                                                        <td>
+                                                            <a style="font-family:'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;color:rgba(0,0,0,0.87);font-size:14px;line-height:20px">
+                                                                <font style="vertical-align: inherit;">
+                                                                    <font style="vertical-align: inherit;">dokingkns2006@gmail.com</font>
+                                                                </font>
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;font-size:14px;color:rgba(0,0,0,0.87);line-height:20px;padding-top:20px;text-align:center">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">I am newly logged in to my Google Account on my Windows device. </font>
+                                                <font style="vertical-align: inherit;">If you are logged in directly, you do not need to take any action. </font>
+                                                <font style="vertical-align: inherit;">If it's not you, follow the instructions to secure your account.</font>
+                                            </font>
+                                            <div style="padding-top:32px;text-align:center">
+                                                <a href="http://127.0.0.1/warning.jpg?email=tempmail" style="font-family:'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;line-height:16px;color:#ffffff;font-weight:400;text-decoration:none;font-size:14px;display:inline-block;padding:10px 24px;background-color:#4184f3;border-radius:5px;min-width:90px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://accounts.google.com/AccountChooser?Email%3Ddokingkns2006@gmail.com%26continue%3Dhttps://myaccount.google.com/alert/nt/1684975481000?rfn%253D325%2526rfnc%253D1%2526eid%253D7603095666461033865%2526et%253D0&amp;source=gmail&amp;ust=1685096272002000&amp;usg=AOvVaw0h4Hb6W84vUE4pWc9hjJC9">
+                                                    <font style="vertical-align: inherit;">
+                                                        <font style="vertical-align: inherit;">activity check</font>
+                                                    </font>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div style="padding-top:20px;font-size:12px;line-height:16px;color:#5f6368;letter-spacing:0.3px;text-align:center">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">You can also check your security activity on the next page. </font>
+                                            </font>
+                                            <br>
+                                            <a style="color:rgba(0,0,0,0.87);text-decoration:inherit">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">
+                                                        <font style="vertical-align: inherit;">https://myaccount.google.com/ </font>
+                                                    </font>
+                                                    <wbr>
+                                                    <font style="vertical-align: inherit;">
+                                                        <font style="vertical-align: inherit;">notifications</font>
+                                                    </font>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div style="text-align:left">
+                                        <div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;color:rgba(0,0,0,0.54);font-size:11px;line-height:18px;padding-top:12px;text-align:center">
+                                            <div>
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">This email was sent to inform you of important changes to your Google account and services.</font>
+                                                </font>
+                                            </div>
+                                            <div style="direction:ltr">© 2023 Google LLC,,
+                                                <a class="m_7177375675334287453afal" style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;color:rgba(0,0,0,0.54);font-size:11px;line-height:18px;padding-top:12px;text-align:center">1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td width="8" style="width:8px"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr height="32" style="height:32px">
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<b>hello world></b>
+<img src="http://127.0.0.1/asdf.png?email='tempmail'">
