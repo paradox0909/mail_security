@@ -39,5 +39,5 @@ if connect.is_connected():
     connect.commit()
     connect.close()
 
-    if not connect.is_connected():
-        print("ByeBye")
+ else connect.is_connected():
+     print("ByeBye")
