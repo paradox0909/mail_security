@@ -19,8 +19,8 @@ $ pip3 install smtplib mysql-connector-python -y
 ##### edit a receivers.txt
 ##### (please enter one email and add a line break)
 
-##### you can send email to html.
-##### if you change a mail body, add a 
+##### Now you can send email to html using receivers.txt
+##### if you change a mail body, add a this code :
 ```
 <img src="http://127.0.0.1/test.png?email='test_parameter'"> 
 ```
