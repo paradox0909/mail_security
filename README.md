@@ -9,13 +9,13 @@ Please do not abuse it and only use it to strengthen your company's security.
 ##### change directory to mail_security/send_mail
 <pre><code>$ cd mail_security/send_mail</code></pre>
 ##### edit a receivers.txt
-###### warning. please enter one email and add a line break
+##### please enter one email and add a line break
 
 ##### you can send email to html.
 ##### if you change a mail body, add a 
 <pre>
   <code> 
-    <img src="http://127.0.0.1/test.png?email='test_parameter'"> 
+    ₩₩₩ <img src="http://127.0.0.1/test.png?email='test_parameter'"> ₩₩₩
   </code>
 </pre>
 
