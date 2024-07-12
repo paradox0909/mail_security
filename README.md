@@ -14,10 +14,6 @@ Please do not abuse it and only use it to strengthen your company's security.
 ##### you can send email to html.
 ##### if you change a mail body, add a 
 ```
-<pre>
-  <code> 
      <img src="http://127.0.0.1/test.png?email='test_parameter'"> 
-  </code>
-</pre>
 ```
 ##### this code will you can determine whether an email has been read based on whether the photo has been read.
