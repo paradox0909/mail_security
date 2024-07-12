@@ -15,7 +15,7 @@ Please do not abuse it and only use it to strengthen your company's security.
 ##### if you change a mail body, add a 
 <pre>
   <code> 
-    ₩₩₩ <img src="http://127.0.0.1/test.png?email='test_parameter'"> ₩₩₩
+    ``` <img src="http://127.0.0.1/test.png?email='test_parameter'"> ```
   </code>
 </pre>
 
